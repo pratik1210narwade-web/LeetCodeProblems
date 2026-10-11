@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0217-contains-duplicate) |
+| [0451-sort-characters-by-frequency](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0771-jewels-and-stones) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2418-sort-the-people](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2418-sort-the-people) |
@@ -33,20 +34,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0217-contains-duplicate) |
+| [0451-sort-characters-by-frequency](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2418-sort-the-people](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/1678-goal-parser-interpretation) |
 | [2418-sort-the-people](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2418-sort-the-people) |
 | [3146-permutation-difference-between-two-strings](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/3146-permutation-difference-between-two-strings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
