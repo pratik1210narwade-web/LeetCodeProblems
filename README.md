@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1207-unique-number-of-occurrences](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/1207-unique-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/1207-unique-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3146-permutation-difference-between-two-strings](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/3146-permutation-difference-between-two-strings) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Sorting
 |  |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/1678-goal-parser-interpretation) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2418-sort-the-people) |
 | [3146-permutation-difference-between-two-strings](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/3146-permutation-difference-between-two-strings) |
 ## Heap (Priority Queue)
