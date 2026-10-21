@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2716-minimize-string-length](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2716-minimize-string-length) |
 | [3146-permutation-difference-between-two-strings](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Math
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/1678-goal-parser-interpretation) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2418-sort-the-people) |
+| [2716-minimize-string-length](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2716-minimize-string-length) |
 | [3146-permutation-difference-between-two-strings](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/3146-permutation-difference-between-two-strings) |
 ## Heap (Priority Queue)
 |  |
