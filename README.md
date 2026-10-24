@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1207-unique-number-of-occurrences](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/1207-unique-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/1207-unique-number-of-occurrences) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2418-sort-the-people](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2418-sort-the-people) |
@@ -86,4 +89,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
