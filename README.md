@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/1688-count-of-matches-in-tournament) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Counting
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/pratik1210narwade-web/https-github.com-pratik1210narwade-web-LeetCodeProblems/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
